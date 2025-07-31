@@ -24,3 +24,10 @@ console.log(`${nama} merupakan seorang ${pekerjaan}`);
 let a = '4';
 let b = 5;
 console.log(a+b);
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rozila28/belajar-coding.git
+git push -u origin main
