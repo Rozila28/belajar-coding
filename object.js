@@ -57,7 +57,7 @@ const binatang ={
 console.log(binatang.ukuran());
 
 // object constructor
-function orang(nama,umur,agama){
+export function orang(nama,umur,agama){
     this.namaDepan =nama;
     this.umur =umur;
     this.agama =agama;
